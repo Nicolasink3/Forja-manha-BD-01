@@ -1,0 +1,84 @@
+[
+    {
+        "id": 1,
+        "nome": "aleksander",
+        "descricao": "russo com um buraco na perna",
+        "aparencia": "loiro com terno",
+        "imagem": "../Imagens/alek.png"
+
+
+    },
+    {
+        "id": 2,
+        "nome": "kris",
+        "descricao": "depresivo paranoico",
+        "aparencia": "castanho com moleton",
+        "imagem": "../Imagens/kris.png"
+         
+
+
+    },
+     {
+        "id": 3,
+        "nome": "kris",
+        "descricao": "depresivo paranoico",
+        "aparencia": "castanho com moleton",
+        "imagem": "../Imagens/kris.png"
+         
+
+
+    },
+     {
+        "id": 4,
+        "nome": "kris",
+        "descricao": "depresivo paranoico",
+        "aparencia": "castanho com moleton",
+        "imagem": "../Imagens/kris.png"
+         
+
+
+    },
+     {
+        "id": 5,
+        "nome": "kris",
+        "descricao": "depresivo paranoico",
+        "aparencia": "castanho com moleton",
+        "imagem": "../Imagens/kris.png"
+         
+
+
+    },
+     {
+        "id": 6,
+        "nome": "kris",
+        "descricao": "depresivo paranoico",
+        "aparencia": "castanho com moleton",
+        "imagem": "../Imagens/kris.png"
+         
+
+
+    },
+     {
+        "id": 7,
+        "nome": "kris",
+        "descricao": "depresivo paranoico",
+        "aparencia": "castanho com moleton",
+        "imagem": "../Imagens/kris.png"
+         
+
+
+    },
+     {
+        "id": 8,
+        "nome": "kris",
+        "descricao": "depresivo paranoico",
+        "aparencia": "castanho com moleton",
+        "imagem": "../Imagens/kris.png"
+         
+
+
+    },
+
+
+]
+
