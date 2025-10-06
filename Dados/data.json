@@ -1,84 +1,123 @@
 [
-    {
-        "id": 1,
-        "nome": "aleksander",
-        "descricao": "russo com um buraco na perna",
-        "aparencia": "loiro com terno",
-        "imagem": "../Imagens/alek.png"
+  {
+    "id": 1,
+    "nome": "Alexandre",
+    "descricao": "Jovem skatista desatento, porém preparado para tudo. Xande era um dos ocultistas da equipe e utilizava do próprio paranormal para ajudar os amigos a combater os Alheios.",
+    "aparencia": "Cabelos longos e cacheados, usa boné e roupas casuais. Carrega um taco de beisebol amaldiçoado.",
+    "imagem": "../Imagens/documentos.1.png",
+    "wiki": "https://ordemparanormal.fandom.com/wiki/Alexandre"
+  },
+  {
+    "id": 2,
+    "nome": "Dara Venturine",
+    "descricao": "Jovem médica meiga e preocupada com seus amigos. Dara auxilia a equipe com seus conhecimentos e concentração em busca dos Alheios e suas ameaças.",
+    "aparencia": "Cabelos castanhos curtos, usa um lenço verde e roupas práticas. Tem um estilo casual e prático.",
+    "imagem": "../Imagens/documentos.2.png",
+    "wiki": "https://ordemparanormal.fandom.com/wiki/Dara_Alice_Venturini"
+  },
+  {
+    "id": 3,
+    "nome": "Lírio Tellini",
+    "descricao": "Combatente experiente, Lírio é um dos membros do grupo Os Cinco, formado por Morato Vertaler. Ele possui habilidades especiais adquiridas após um ritual.",
+    "aparencia": "Cabelos loiros e barba por fazer, veste roupas de combate com detalhes em azul e branco.",
+    "imagem": "../Imagens/documentos.3.png",
+    "wiki": "https://ordemparanormal.fandom.com/wiki/L%C3%ADrio_Tellini"
+  },
+  {
+    "id": 4,
+    "nome": "Guilherme R. Santos",
+    "descricao": "Conhecido como Guizo, é um dos protagonistas da série Ordem Paranormal, presente em Sinais do Outro Lado. Guizo é um dos membros do grupo Os Cinco.",
+    "aparencia": "Cabelos curtos e bagunçados, usa óculos e roupas casuais com detalhes em vermelho.",
+    "imagem": "../Imagens/documentos.4.png",
+    "wiki": "https://ordemparanormal.fandom.com/wiki/Guilherme_Santos"
+  },
+  {
+    "id": 5,
+    "nome": "Chico Albuquerque",
+    "descricao": "Membro do grupo Os Cinco, formado por Morato Vertaler. Chico é um dos personagens principais da série Ordem Paranormal, presente em Sinais do Outro Lado.",
+    "aparencia": "Cabelos curtos e escuros, usa roupas casuais e acessórios relacionados ao ocultismo.",
+    "imagem": "../Imagens/documentos.5.png",
+    "wiki": "https://ordemparanormal.fandom.com/wiki/Francisco_Albuquerque"
+  },
 
-
+  {
+    "id": 6,
+    "nome": "ET 1",
+    "descricao": "",
+    "aparencia": "",
+    "imagem": "../Imagens/ET.png",
+    "wiki": "../Imagens/ETdanca.gif"
+  },
+  {
+    "id": 7,
+    "nome": "ET 2",
+    "descricao": "",
+    "aparencia": "",
+    "imagem": "../Imagens/ET.png",
+    "wiki": "../Imagens/ETdanca.gif"
+  },
+  {
+    "id": 8,
+    "nome": "ET 3",
+    "descricao": "",
+    "aparencia": "",
+    "imagem": "../Imagens/ET.png",
+    "wiki": "../Imagens/ETdanca.gif"
+  },
+  {
+    "id": 9,
+    "nome": "ET 4",
+    "descricao": "",
+    "aparencia": "",
+    "imagem": "../Imagens/ET.png",
+    "wiki": "../Imagens/ETdanca.gif"
+  },
+  {
+    "id": 10,
+    "nome": "ET 5",
+    "descricao": "",
+    "aparencia": "",
+    "imagem": "../Imagens/ET.png",
+    "wiki": "../Imagens/ETdanca.gif"
+  },
+  {
+    "id": 11,
+    "nome": "ET 6",
+    "descricao": "",
+    "aparencia": "",
+    "imagem": "../Imagens/ET.png",
+    "wiki": "../Imagens/ETdanca.gif"
+  },
+  {
+    "id": 12,
+    "nome": "ET 7",
+    "descricao": "",
+    "aparencia": "",
+    "imagem": "../Imagens/ET.png",
+    "wiki": "../Imagens/ETdanca.gif"
+  },
+  {
+    "id": 13,
+    "nome": "ET 8",
+    "descricao": "",
+    "aparencia": "",
+    "imagem": "../Imagens/ET.png",
+        "wiki": "../Imagens/ETdanca.gif"
     },
-    {
-        "id": 2,
-        "nome": "kris",
-        "descricao": "depresivo paranoico",
-        "aparencia": "castanho com moleton",
-        "imagem": "../Imagens/kris.png"
-         
-
-
-    },
-     {
-        "id": 3,
-        "nome": "kris",
-        "descricao": "depresivo paranoico",
-        "aparencia": "castanho com moleton",
-        "imagem": "../Imagens/kris.png"
-         
-
-
-    },
-     {
-        "id": 4,
-        "nome": "kris",
-        "descricao": "depresivo paranoico",
-        "aparencia": "castanho com moleton",
-        "imagem": "../Imagens/kris.png"
-         
-
-
-    },
-     {
-        "id": 5,
-        "nome": "kris",
-        "descricao": "depresivo paranoico",
-        "aparencia": "castanho com moleton",
-        "imagem": "../Imagens/kris.png"
-         
-
-
-    },
-     {
-        "id": 6,
-        "nome": "kris",
-        "descricao": "depresivo paranoico",
-        "aparencia": "castanho com moleton",
-        "imagem": "../Imagens/kris.png"
-         
-
-
-    },
-     {
-        "id": 7,
-        "nome": "kris",
-        "descricao": "depresivo paranoico",
-        "aparencia": "castanho com moleton",
-        "imagem": "../Imagens/kris.png"
-         
-
-
-    },
-     {
-        "id": 8,
-        "nome": "kris",
-        "descricao": "depresivo paranoico",
-        "aparencia": "castanho com moleton",
-        "imagem": "../Imagens/kris.png"
-         
-
-
-    },
-
-
+  {
+    "id": 14,
+    "nome": "ET 9",
+    "descricao": "",
+    "aparencia": "",
+    "imagem": "../Imagens/ET.png",
+    "wiki": "../Imagens/ETdanca.gif"
+  },
+  {
+    "id": 15,
+    "nome": "ET 10",
+    "descricao": "",
+    "aparencia": "",
+    "imagem": "../Imagens/ET.png",
+    "wiki": "../Imagens/ETdanca.gif"
+  }
 ]
-
